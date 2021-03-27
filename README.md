@@ -1,6 +1,6 @@
 ## <img align="left" alt="atqjunior-myoctocat" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1616875578710.png" width="180px"/><a href="https://github.com/walttoncoelho"></a>
 
-## Olá me chamo **Waltton coelho**
+## Olá me chamo **Waltton Coelho**
 
 Atualmente moro em São Luís/MA, Brasil. Estou em busca de me tornar um **desenvolvedor Web**. Em constante aprendizado para compartilhar, construir e difundir novas tecnologias que sejam disponíveis a todos.
 
